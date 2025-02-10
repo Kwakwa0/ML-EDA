@@ -46,8 +46,11 @@ This project analyzes data from a GenZ dating app to understand user behavior, p
 - `version_1.csv` - First cleaned version of the dataset.
 - `README.md` - Project summary and documentation.
 
-## Contribution & Feedback
-Feel free to contribute by improving data analysis techniques or suggesting new insights. Open a pull request or start a discussion!
+
+
+
+
 Author: Kwaku Kwakwa
+
 Repository: https://github.com/Kwakwa0/ML-EDA
 # ML-EDA
